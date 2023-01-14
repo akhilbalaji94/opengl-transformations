@@ -37,7 +37,7 @@ Additional functionalities beyond project requirements
 1. Incase recompiling shaders fails, the program will continue execution using the previously compiled shaders.
 
 
-https://user-images.githubusercontent.com/16291248/211367996-8e6b691e-7318-4fc9-a4fb-99e8c0fa12c7.mov
+https://user-images.githubusercontent.com/16291248/212488585-37a5b06d-6492-40fa-9eb5-74f93decc8ca.mp4
 
 
 How to use your implementation
